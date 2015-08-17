@@ -1,10 +1,8 @@
 # Playground
 Playground of scripts developed for PQ testing.
 
-Erick Laitinen
-
-Product Qualification
-
+Erick Laitinen /n
+Product Qualification /n
 ADTRAN, Inc.
 
 901 Explorer Blvd.
